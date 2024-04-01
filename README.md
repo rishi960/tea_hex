@@ -1,0 +1,2 @@
+# tea_hex
+testnet
